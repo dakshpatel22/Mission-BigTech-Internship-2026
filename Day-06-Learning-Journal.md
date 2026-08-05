@@ -1,6 +1,6 @@
 # Day 6 Learning Journal
 
-Date: 02 August 2026
+Date: 05 August 2026
 
 ## Topics Learned
 - Object-Oriented Programming (OOP)
